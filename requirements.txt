@@ -1,0 +1,15 @@
+langchain==0.3.25
+langchain-community>=0.3.23
+langchain-huggingface==0.2.0
+faiss-cpu>=1.11.0
+sentence-transformers==4.1.0
+transformers==4.51.3
+huggingface_hub==0.31.1
+torch==2.7.0
+pinecone-client==6.0.0
+fastapi>=0.104.1
+uvicorn==0.34.2
+python-dotenv==1.1.0
+cryptography>=44.0.3
+together>=1.5.7 
+pydantic>=2.11.4,<3.0.0
