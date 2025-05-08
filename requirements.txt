@@ -9,3 +9,4 @@ sentence-transformers==2.7.0
 faiss-cpu==1.8.0
 torch==2.1.2
 filelock==3.13.1
+gunicorn==21.2.0
